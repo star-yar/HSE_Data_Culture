@@ -1,0 +1,191 @@
+%!TEX TS-program = xelatex
+\documentclass[12pt, a4paper, oneside]{article}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools}  % пакеты для математики
+
+\usepackage[utf8]{inputenc} % задание utf8 кодировки исходного tex файла
+\usepackage[british,russian]{babel} % выбор языка для документа
+
+\usepackage{fontspec}         % пакет для подгрузки шрифтов
+\setmainfont{Helvetica}   % задаёт основной шрифт документа
+
+\usepackage{unicode-math}     % пакет для установки математического шрифта
+\setmathfont{Neo Euler}      % шрифт для математики
+% \setmathfont[math-style=ISO]{Asana Math}
+% Можно делать смену начертания с помощью разных стилей
+
+% Конкретный символ из конкретного шрифта
+% \setmathfont[range=\int]{Neo Euler}
+
+%%%%%%%%%% Работа с картинками %%%%%%%%%
+\usepackage{graphicx}                  % Для вставки рисунков
+\usepackage{graphics}
+\graphicspath{{images/}{pictures/}}    % можно указать папки с картинками
+\usepackage{wrapfig}                   % Обтекание рисунков и таблиц текстом
+
+%%%%%%%%%%%%%%%%%%%%%%%% Графики и рисование %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{tikz, pgfplots}  % язык для рисования графики из latex'a
+
+%%%%%%%%%% Гиперссылки %%%%%%%%%%
+\usepackage{xcolor}              % разные цвета
+
+\usepackage{hyperref}
+\hypersetup{
+	unicode=true,           % позволяет использовать юникодные символы
+	colorlinks=true,       	% true - цветные ссылки, false - ссылки в рамках
+	urlcolor=blue,          % цвет ссылки на url
+	linkcolor=red,          % внутренние ссылки
+	citecolor=green,        % на библиографию
+	pdfnewwindow=true,      % при щелчке в pdf на ссылку откроется новый pdf
+	breaklinks              % если ссылка не умещается в одну строку, разбивать ли ее на две части?
+}
+
+
+\usepackage{todonotes} % для вставки в документ заметок о том, что осталось сделать
+% \todo{Здесь надо коэффициенты исправить}
+% \missingfigure{Здесь будет Последний день Помпеи}
+% \listoftodos --- печатает все поставленные \todo'шки
+
+\usepackage[paper=a4paper, top=20mm, bottom=15mm,left=20mm,right=15mm]{geometry}
+\usepackage{indentfirst}       % установка отступа в первом абзаце главы
+
+\usepackage{setspace}
+\setstretch{1.15}  % Межстрочный интервал
+\setlength{\parskip}{4mm}   % Расстояние между абзацами
+% Разные длины в латехе https://en.wikibooks.org/wiki/LaTeX/Lengths
+
+
+\usepackage{xcolor} % Enabling mixing colors and color's call by 'svgnames'
+
+\definecolor{MyColor1}{rgb}{0.2,0.4,0.6} %mix personal color
+\newcommand{\textb}{\color{Black} \usefont{OT1}{lmss}{m}{n}}
+\newcommand{\blue}{\color{MyColor1} \usefont{OT1}{lmss}{m}{n}}
+\newcommand{\blueb}{\color{MyColor1} \usefont{OT1}{lmss}{b}{n}}
+\newcommand{\red}{\color{LightCoral} \usefont{OT1}{lmss}{m}{n}}
+\newcommand{\green}{\color{Turquoise} \usefont{OT1}{lmss}{m}{n}}
+
+\usepackage{titlesec}
+\usepackage{sectsty}
+%%%%%%%%%%%%%%%%%%%%%%%%
+%set section/subsections HEADINGS font and color
+\sectionfont{\color{MyColor1}}  % sets colour of sections
+\subsectionfont{\color{MyColor1}}  % sets colour of sections
+
+%set section enumerator to arabic number (see footnotes markings alternatives)
+\renewcommand\thesection{\arabic{section}.} %define sections numbering
+\renewcommand\thesubsection{\thesection\arabic{subsection}} %subsec.num.
+
+%define new section style
+\newcommand{\mysection}{
+	\titleformat{\section} [runin] {\usefont{OT1}{lmss}{b}{n}\color{MyColor1}} 
+	{\thesection} {3pt} {} } 
+
+
+%	CAPTIONS
+\usepackage{caption}
+\usepackage{subcaption}
+%%%%%%%%%%%%%%%%%%%%%%%%
+\captionsetup[figure]{labelfont={color=Turquoise}}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\section*{Семинар 3-4:  привлечение клиентов и классификация}
+
+\subsection*{Задача 0}
+
+Ликбез!  Со всей глубиной и знанием дела дайте ответы на следующие вопросы: 
+
+\begin{itemize}
+\item  Почему нумерация в этом семинаре начинается с нуля? 
+\item  Что такое машинное обучение и что оно позволяет делать? 
+\item  Что такое обучение без учителя и чем оно отличается от обучения с учителем? 
+\item  Чем задача классификации отличается от задачи кластеризации? 
+\item  Чем задача классификации отличается от задачи регрессии? 
+\item  Как оценить модель? Что для этого нужно? 
+\item Что такое метрика качества модели? Какие метрики вы знаете? Как правильно измерить качество модели? 
+\item Что такое кросс-валидация?  Как объяснить это бабушке? 
+\end{itemize}
+
+В смысле не знаете? Мы целый модуль этим занимались!  Слабо дать ответ на каждый вопрос с помощью одного ёмкого слова? 
+
+\subsection*{Задача 1}
+
+Есть четыре человека и Вася. У всех профили с кинопоиска. 
+
+Фильмы какого жанра скорее всего понравятся Васе, если доверить выбор методу одного ближайшего соседа? 
+А если выбирать по двум ближайшим соседям? (АХТУНГ!)
+А если выбирать по трём соседям? 
+Почему нельзя брать очень много соседей? 
+
+Дайте ответы на вопросы выше, используя евклидово расстояние. 
+
+
+
+\subsection*{Задача 2}
+
+На плоскости расположены колонии рыжих и чёрных муравьёв. Рыжих колоний три и они имеют координаты $(-1, -1)$, $(1, 1)$ и $(3, 3)$. Чёрных колоний тоже три и они имеют координаты $(2, 2)$, $(4, 4)$ и $(6, 6)$.
+
+\begin{enumerate}
+	\item Чем KNN отличается от K-means? 
+	\item Поделите плоскость на «зоны влияния» рыжих и чёрных используя метод одного ближайшего соседа.
+	\item Поделите плоскость на «зоны влияния» рыжих и чёрных используя метод трёх ближайших соседей.
+	\item С помощью кросс-валидации с выкидыванием отдельных наблюдений выберите оптимальное число соседей $k$ перебрав $k \in \{1, 3, 5\}$. Целевой функцией является количество несовпадающих прогнозов.
+\end{enumerate}
+
+\subsection*{Задача 3}
+
+Обучаем дерево своими руками. Правило разбиение вершин: минимизация числа допущенных ошибок. Правило прогнозирования в каждой вершине: в качестве прогноза выдаем тот класс, представителей которого в вершине больше. 
+
+
+
+\subsection*{Задача 4}
+
+По данной диаграмме рассеяния постройте классификационное дерево для зависимой переменной $y$:
+
+	\begin{center}
+		\begin{tikzpicture}[scale = 0.015]
+		\input{images/tree_scatter_data.tikz}
+		\end{tikzpicture}
+	\end{center}
+
+
+\section{Ещё задачи} 
+
+\subsection*{Задача 5} 
+
+Ниже изображены разделяющие поверхности для задачи бинарной классификации, соответствующие решающим деревьям разной глубины. Какое из изображений соответствует наиболее глубокому дереву?
+
+\begin{center}
+	\includegraphics[scale=0.7]{trees.png}
+\end{center}
+
+
+\subsection*{Задача 6} 
+
+Рассмотрим обучающую выборку для прогнозирования $y$ с помощью $x$ и $z$:
+
+\begin{center}
+\begin{tabular}{c|c|c}
+	\hline
+	$y_i$ & $x_i$ & $z_i$ \\
+\hline
+	$y_1$ & $1$ & $2$ \\
+	$y_2$ & $1$ & $2$ \\
+	$y_3$ & $2$ & $2$ \\
+	$y_4$ & $2$ & $1$\\
+	$y_5$ & $2$ & $1$ \\
+	$y_6$ & $2$ & $1$ \\
+	$y_7$ & $2$ & $1$ \\
+\end{tabular}
+\end{center}
+
+Будем называть деревья разными, если они выдают разные прогнозы на обучающей выборке.
+Сколько существует разных классификационных деревьев  для данного набора данных?
+
+\subsection*{Задача 7} 
+
+Решите первую и вторую задачи, используя манхеттенское расстояние вместо евклидова. Можно ли подбирать метрику для подсчёта расстояния с помощью кросс-валидации, как мы делали это с параметром $k$? 
+
+\end{document}

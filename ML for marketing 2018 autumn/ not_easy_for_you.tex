@@ -1,0 +1,160 @@
+\documentclass[pdftex, 12pt, a4paper]{article}
+
+\usepackage[british,russian]{babel} % выбор языка для документа
+\usepackage[utf8]{inputenc} % задание utf8 кодировки исходного tex файла
+\usepackage[X2,T2A]{fontenc}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm} % AMS
+
+\usepackage[pdftex,unicode,colorlinks=true,urlcolor=blue,hyperindex,breaklinks]{hyperref}  %гиперссылки
+
+
+%%% Работа с картинками
+\usepackage{graphicx}  % Для вставки рисунков
+\usepackage{wrapfig} % Обтекание рисунков и таблиц текстом
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{pgf,tikz}
+\usepackage{mathrsfs}
+\usetikzlibrary{arrows}
+
+%%% Работа с таблицами
+\usepackage{tabularx,tabulary}
+\usepackage{longtable}  % Длинные таблицы
+\usepackage{multirow} % Слияние строк в таблице
+
+
+\usepackage{todonotes} % для вставки в документ заметок о том, что осталось сделать
+% \todo{Здесь надо коэффициенты исправить}
+% \missingfigure{Здесь будет Последний день Помпеи}
+% \listoftodos --- печатает все поставленные \todo'шки
+
+
+\oddsidemargin=0pt
+\topmargin=0pt
+\textwidth=16cm
+\pagestyle{empty}
+
+\DeclareMathOperator{\Corr}{Corr}
+\DeclareMathOperator{\sCorr}{sCorr}
+\DeclareMathOperator{\sCov}{sCov}
+\DeclareMathOperator{\sVar}{sVar}
+\DeclareMathOperator{\Cov}{Cov}
+\DeclareMathOperator{\Var}{Var}
+
+\def \RR{\mbb R}
+\def \NN{\mbb N}
+\def \ZZ{\mbb Z}
+\def \PP{\mbb{P}}
+\newcommand{\E}{\mathbb{E}}
+\def \QQ{\mbb Q}
+
+\def\s{\sigma}
+\def \a{\alpha}
+\def \b{\beta}
+\def \t{\tau}
+\def \dt{\delta}
+\newcommand{\e}{\varepsilon}
+\def \ga{\gamma}
+\def \kp{\varkappa}
+\def \la{\lambda}
+\def \sg{\sigma}
+\def \sgm{\sigma}
+\def \tt{\theta}
+\def \Dt{\Delta}
+\def \La{\Lambda}
+\def \Sgm{\Sigma}
+\def \Sg{\Sigma}
+\def \Tt{\Theta}
+\def \Om{\Omega}
+\def \om{\omega}
+
+% вместо горизонтальной делаем косую черточку в нестрогих неравенствах
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\geq}{\geqslant}
+
+\newcommand{\II}{{\fontencoding{X2}\selectfont\CYRII}}   % I десятеричное (английская i неуместна)
+\newcommand{\ii}{{\fontencoding{X2}\selectfont\cyrii}}   % i десятеричное
+\newcommand{\EE}{{\fontencoding{X2}\selectfont\CYRYAT}}  % ЯТЬ
+\newcommand{\ee}{{\fontencoding{X2}\selectfont\cyryat}}  % ять
+\newcommand{\FF}{{\fontencoding{X2}\selectfont\CYROTLD}} % ФИТА
+\newcommand{\ff}{{\fontencoding{X2}\selectfont\cyrotld}} % фита
+\newcommand{\YY}{{\fontencoding{X2}\selectfont\CYRIZH}}  % ИЖИЦА
+\newcommand{\yy}{{\fontencoding{X2}\selectfont\cyrizh}}  % ижица
+
+\newcounter{nc}
+\newcommand{\ex}[1]{%
+\addtocounter{nc}{1}
+\textcolor{blue}{Задача \arabic{nc}}
+
+#1\\}
+
+%\renewcommand{\labelitemi}{\asbuk{itemi}}
+%\renewcommand{\labelitemii}{\asbuk{itemii}}
+
+\usepackage{float}
+
+\begin{document} % конец преамбулы, начало документа
+
+\begin{problem}
+	Бандерлог из Лога\footnote{деревня в Кадуйском районе Вологодской области} ведёт блог, любит считать логарифмы и оценивать логистические регрессии. С помощью нового алгоритма Бандерлог решил задачу классификации по трём наблюдениям и получил $b_i = \hat\P(y_i = 1|x_i)$.
+	
+	\begin{tabular}{cc}
+		\toprule
+		$y_i$ & $b_i$ \\
+		\midrule
+		1 & 0.7 \\
+		-1 & 0.2 \\
+		-1 & 0.3 \\
+		\bottomrule
+	\end{tabular}
+	
+	\begin{enumerate}
+		\item Постройте ROC-кривую.
+		\item Найдите площадь под ROC-кривой и индекс Джини.
+		\item Постройте PR-кривую (кривая точность-полнота).
+		\item Найдите площадь под PR-кривой.
+		\item Как по-английски будет «бревно»?
+	\end{enumerate}
+	\begin{sol}
+	\end{sol}
+\end{problem}
+
+
+\begin{problem}
+	Бандерлог начинает все определения со слов «это доля правильных ответов»:
+	\begin{enumerate}
+		\item accuracy — это доля правильных ответов\ldots
+		\item точность (precision) — это доля правильных ответов\ldots
+		\item полнота (recall) — это доля правильных ответов\ldots
+		\item TPR — это доля правильных ответов\ldots
+	\end{enumerate}
+	
+	Закончите определения Бандерлога так, чтобы они были, хм, правильными.
+	\begin{sol}
+		\begin{enumerate}
+			\item $\text{accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} +\text{FP} +\text{FN} +\text{TN}}$
+			\item $\text{precision} = \frac{\text{TP}}{\text{TP} +\text{FP}}$
+			\item $\text{recall} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
+			\item $\text{TPR} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
+		\end{enumerate}
+	\end{sol}
+\end{problem}
+
+
+\begin{problem}
+	Алгоритм бинарной классификации, придуманный Бандерлогом, выдаёт оценки вероятности $b_i = \hat\P(y_i=1 | x_i)$. Всего у Бандерлога 10000 наблюдений. Если ранжировать их по возрастанию $b_i$, то окажется что наблюдения с $y_i = 1$ занимают ровно места с  5501 по 5600.
+	
+	Найдите площадь по ROC-кривой и площадь под PR-кривой.
+	\begin{sol}
+	\end{sol}
+\end{problem}
+
+
+
+
+
+
+\end{document}
