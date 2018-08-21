@@ -3,16 +3,19 @@
 
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools}  % пакеты для математики
 
+\usepackage[english, russian]{babel} % выбор языка для документа
 \usepackage[utf8]{inputenc} % задание utf8 кодировки исходного tex файла
-\usepackage[british,russian]{babel} % выбор языка для документа
+\usepackage[X2,T2A]{fontenc}        % кодировка
 
 \usepackage{fontspec}         % пакет для подгрузки шрифтов
-\setmainfont{Helvetica}   % задаёт основной шрифт документа
+\setmainfont{Linux Libertine O}   % задаёт основной шрифт документа
 
 \usepackage{unicode-math}     % пакет для установки математического шрифта
-\setmathfont{Neo Euler}      % шрифт для математики
-% \setmathfont[math-style=ISO]{Asana Math}
-% Можно делать смену начертания с помощью разных стилей
+\setmathfont[math-style=upright]{Neo Euler} % шрифт для математики
+
+% Конкретный символ из конкретного шрифта
+% \setmathfont[range=\int]{Neo Euler}
+
 
 % Конкретный символ из конкретного шрифта
 % \setmathfont[range=\int]{Neo Euler}
@@ -91,39 +94,69 @@
 
 \begin{document}
 
-\section*{Семинар 6-7:  Удержание клиентов}
 
+\section*{Семинар 6-7: Удержание клиентов}
 
 \subsection*{Задача 1}
 
-
-
+\begin{problem}
+	Бандерлог начинает все определения со слов «это доля правильных ответов»:
+	\begin{enumerate}
+		\item accuracy — это доля правильных ответов\ldots
+		\item точность (precision) — это доля правильных ответов\ldots
+		\item полнота (recall) — это доля правильных ответов\ldots
+		\item TPR — это доля правильных ответов\ldots
+	\end{enumerate}
+	
+	Закончите определения Бандерлога так, чтобы они были, хм, правильными.
+	\begin{sol}
+		\begin{enumerate}
+			\item $\text{accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} +\text{FP} +\text{FN} +\text{TN}}$
+			\item $\text{precision} = \frac{\text{TP}}{\text{TP} +\text{FP}}$
+			\item $\text{recall} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
+			\item $\text{TPR} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
+		\end{enumerate}
+	\end{sol}
+\end{problem}
 
 \subsection*{Задача 2}
 
-
-
+\begin{problem}
+	Бандерлог из Лога\footnote{деревня в Кадуйском районе Вологодской области} ведёт блог, любит считать логарифмы и оценивать логистические регрессии. С помощью нового алгоритма Бандерлог решил задачу классификации по трём наблюдениям и получил $b_i = \hat\P(y_i = 1|x_i)$.
+	
+	\begin{tabular}{cc}
+		\toprule
+		$y_i$ & $b_i$ \\
+		\midrule
+		1 & 0.7 \\
+		-1 & 0.2 \\
+		-1 & 0.3 \\
+		\bottomrule
+	\end{tabular}
+	
+	\begin{enumerate}
+		\item Постройте ROC-кривую.
+		\item Найдите площадь под ROC-кривой и индекс Джини.
+		\item Постройте PR-кривую (кривая точность-полнота).
+		\item Найдите площадь под PR-кривой.
+		\item Как по-английски будет «бревно»?
+	\end{enumerate}
+	\begin{sol}
+	\end{sol}
+\end{problem}
 
 \subsection*{Задача 3}
 
-
-
+\subsection*{Задача 3}
 
 \subsection*{Задача 4}
 
+\section{Ещё задачи}
 
+\subsection*{Задача 5}
 
+\subsection*{Задача 6}
+\subsection*{Задача 7}
 
-\section{Ещё задачи} 
-
-\subsection*{Задача 5} 
-
-
-
-\subsection*{Задача 6} 
-
-
-
-\subsection*{Задача 7} 
 
 \end{document}

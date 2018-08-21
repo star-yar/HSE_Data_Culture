@@ -3,19 +3,19 @@
 
 \usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools}  % пакеты для математики
 
+\usepackage[english, russian]{babel} % выбор языка для документа
 \usepackage[utf8]{inputenc} % задание utf8 кодировки исходного tex файла
-\usepackage[british,russian]{babel} % выбор языка для документа
+\usepackage[X2,T2A]{fontenc}        % кодировка
 
 \usepackage{fontspec}         % пакет для подгрузки шрифтов
-\setmainfont{Helvetica}   % задаёт основной шрифт документа
+\setmainfont{Linux Libertine O}   % задаёт основной шрифт документа
 
 \usepackage{unicode-math}     % пакет для установки математического шрифта
-\setmathfont{Neo Euler}      % шрифт для математики
-% \setmathfont[math-style=ISO]{Asana Math}
-% Можно делать смену начертания с помощью разных стилей
+\setmathfont[math-style=upright]{Neo Euler} % шрифт для математики
 
 % Конкретный символ из конкретного шрифта
 % \setmathfont[range=\int]{Neo Euler}
+
 
 %%%%%%%%%% Работа с картинками %%%%%%%%%
 \usepackage{graphicx}                  % Для вставки рисунков
