@@ -97,6 +97,11 @@
 \booltrue{answers}
 %\boolfalse{answers}
 
+% бульпоинты в списках
+\definecolor{myblue}{rgb}{0, 0.45, 0.70}
+\newcommand*{\MyPoint}{\tikz \draw [baseline, fill=myblue,draw=blue] circle (2.5pt);}
+\renewcommand{\labelitemi}{\MyPoint}
+
 \begin{document}
 
 \section*{Семинар 2-3:  сегментация клиентов и кластеризация}
