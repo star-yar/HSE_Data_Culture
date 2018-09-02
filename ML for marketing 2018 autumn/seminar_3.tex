@@ -98,10 +98,16 @@
 \booltrue{answers}
 %\boolfalse{answers}
 
+\usepackage{enumitem}
 % бульпоинты в списках
 \definecolor{myblue}{rgb}{0, 0.45, 0.70}
 \newcommand*{\MyPoint}{\tikz \draw [baseline, fill=myblue,draw=blue] circle (2.5pt);}
 \renewcommand{\labelitemi}{\MyPoint}
+
+% расстояние в списках
+\setlist[itemize]{parsep=0.4em,itemsep=0em,topsep=0ex}
+\setlist[enumerate]{parsep=0.4em,itemsep=0em,topsep=0ex}
+
 
 \begin{document}
 	
@@ -177,19 +183,19 @@
 Вот несколько ситуаций, как на ваш взгляд должны пройти линии регрессии? Да, это тоже машинное обучение. Но обычно кривые рисуем не мы, а комплюхтер.
 
 \begin{minipage}[t]{0.45\textwidth}
-	\includegraphics[scale=0.4]{regr_pic_1.png}
+	\includegraphics[scale=0.38]{regr_pic_1.png}
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
-	\includegraphics[scale=0.4]{regr_pic_2.png}
+	\includegraphics[scale=0.38]{regr_pic_2.png}
 \end{minipage}
 
 \begin{minipage}[t]{0.45\textwidth}
-	\includegraphics[scale=0.4]{regr_pic_3.png}
+	\includegraphics[scale=0.38]{regr_pic_3.png}
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.45\textwidth}
-	\includegraphics[scale=0.55]{regr_pic_4.png}
+	\includegraphics[scale=0.5]{regr_pic_4.png}
 \end{minipage}
 
 \begin{enumerate}	
@@ -280,7 +286,7 @@
 	Если нарисовать $L(\mu)$ на картинке, то можно увидеть, что минимум ошибки, действительно, достигается в точке $7.3$.
 	
 	\begin{center}
-		\includegraphics[scale=0.6]{mul.png}
+		\includegraphics[scale=0.45]{mul.png}
 	\end{center}
 	
 	
@@ -303,7 +309,7 @@
 Отлично. Теперь у нас есть зависимость наших прогнозов от гиперпараметра в явном виде. Давайте попробуем посмотреть как выглядит эта зависимость на графике. 	
 
 \begin{center}
-	\includegraphics[scale=0.6]{lambda_mu.png}
+	\includegraphics[scale=0.45]{lambda_mu.png}
 \end{center}
 
 Гиперпараметр лямбда обладает интересным эффектом. Он зануляет значение $\mu$, если оказывается очень большим.  Именно так работает регуляризация. Она стягивает коэффициенты к нулю. Когда модель слишком сильно подстраивается под данные, коэффициенты в ней оказываются очень большими (вспомните картинку из второго задания). Стягивание к нулю запрещает модели слишком сильно подстраиваться под данные. 

@@ -92,6 +92,26 @@
 
 \pagestyle{empty}
 
+%%%%%%%%%% Свои команды %%%%%%%%%%
+\usepackage{etoolbox}    % логические операторы для своих макросов
+
+% Все свои команды лучше всего определять не по ходу текста, как это сделано в этом документе, а в преамбуле!
+
+% Одно из применений - уничтожение какого-то куска текста!
+\newbool{answers}
+\booltrue{answers}
+%\boolfalse{answers}
+
+\usepackage{enumitem}
+% бульпоинты в списках
+\definecolor{myblue}{rgb}{0, 0.45, 0.70}
+\newcommand*{\MyPoint}{\tikz \draw [baseline, fill=myblue,draw=blue] circle (2.5pt);}
+\renewcommand{\labelitemi}{\MyPoint}
+
+% расстояние в списках
+\setlist[itemize]{parsep=0.4em,itemsep=0em,topsep=0ex}
+\setlist[enumerate]{parsep=0.4em,itemsep=0em,topsep=0ex}
+
 \begin{document}
 
 
