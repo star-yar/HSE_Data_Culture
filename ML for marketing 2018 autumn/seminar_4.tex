@@ -119,64 +119,139 @@
 
 \subsection*{Задача 1}
 
-\begin{problem}
 	Бандерлог начинает все определения со слов «это доля правильных ответов»:
 	\begin{enumerate}
-		\item accuracy — это доля правильных ответов\ldots
-		\item точность (precision) — это доля правильных ответов\ldots
-		\item полнота (recall) — это доля правильных ответов\ldots
-		\item TPR — это доля правильных ответов\ldots
+		\item[а)] accuracy — это доля правильных ответов\ldots
+		\item[б)] точность (precision) — это доля правильных ответов\ldots
+		\item[в)] полнота (recall) — это доля правильных ответов\ldots
+		\item[г)] TPR — это доля правильных ответов\ldots
 	\end{enumerate}
-	
+
+\ifbool{answers}{
+	\textbf{Решение:}
+		
 	Закончите определения Бандерлога так, чтобы они были, хм, правильными.
-	\begin{sol}
+	
 		\begin{enumerate}
-			\item $\text{accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} +\text{FP} +\text{FN} +\text{TN}}$
-			\item $\text{precision} = \frac{\text{TP}}{\text{TP} +\text{FP}}$
-			\item $\text{recall} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
-			\item $\text{TPR} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
+			\item[а)] $\text{accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} +\text{FP} +\text{FN} +\text{TN}}$
+			\item[б)] $\text{precision} = \frac{\text{TP}}{\text{TP} +\text{FP}}$
+			\item[в)] $\text{recall} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
+			\item[г)] $\text{TPR} = \frac{\text{TP}}{\text{TP} +\text{FN}}$
 		\end{enumerate}
-	\end{sol}
-\end{problem}
+}
 
 \subsection*{Задача 2}
 
-\begin{problem}
+Бандерлог оценил три модели: нейросеть, случайный лес и KNN.  Он построил на тестовой выборке прогнозы и получил три матрицы ошибок: 
+
+\begin{minipage}[t]{0.33\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline
+		              & $y=1$  &  $ y = 0$ \\  \hline 
+$\hat y = 1$  &   $80$ &    $20$ \\      \hline 
+$\hat y = 0$ &   $20$ &     $80$ \\      \hline 
+\end{tabular}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+\begin{tabular}{|c|c|c|}
+	\hline
+	& $y=1$  &  $ y = 0$ \\  \hline 
+	$\hat y = 1$  &   $48$ &    $2$ \\      \hline 
+	$\hat y = 0$ &   $52$ &     $98$ \\      \hline 
+\end{tabular}
+\end{minipage}
+\begin{minipage}[t]{0.33\textwidth}
+\begin{tabular}{|c|c|c|}
+	\hline
+	& $y=1$  &  $ y = 0$ \\  \hline 
+	$\hat y = 1$  &   $10$ &    $20$ \\         \hline 
+	$\hat y = 0$ &   $90$ &    $10000$ \\   \hline 
+\end{tabular}
+\end{minipage}
+
+
+
+
+
+\begin{enumerate}
+	\item[а)]  Найдите для всех трёх моделей долю правильных ответов. 
+	\item[б)]   Найдите для всех трёх моделей точность (precision) и полноту (recall)
+	\item[в)]   Несколько ситуаций, когда чё выбирать --- ? 
+	\item[г)]  
+\end{enumerate}
+
+\ifbool{answers}{
+	\textbf{Решение:}
+	
+	
+	\begin{enumerate}
+		\item[а)] 
+		\item[б)] 
+		\item[в)] 
+		\item[г)]  
+	\end{enumerate}
+	
+}
+
+
+
+\subsection*{Задача 3}
+
 	Бандерлог из Лога\footnote{деревня в Кадуйском районе Вологодской области} ведёт блог, любит считать логарифмы и оценивать логистические регрессии. С помощью нового алгоритма Бандерлог решил задачу классификации по трём наблюдениям и получил $b_i = \hat\P(y_i = 1|x_i)$.
 	
-	\begin{tabular}{cc}
-		\toprule
+\begin{center}
+	\begin{tabular}{c|c}
 		$y_i$ & $b_i$ \\
-		\midrule
-		1 & 0.7 \\
-		-1 & 0.2 \\
-		-1 & 0.3 \\
-		\bottomrule
+		\hline
+		$1$  & $0.7$ \\
+		$0$ & $0.2$ \\
+		$0$ & $0.3$ \\
 	\end{tabular}
+\end{center}
 	
 	\begin{enumerate}
 		\item Постройте ROC-кривую.
-		\item Найдите площадь под ROC-кривой и индекс Джини.
+		\item Найдите площадь под ROC-кривой.
 		\item Постройте PR-кривую (кривая точность-полнота).
 		\item Найдите площадь под PR-кривой.
 		\item Как по-английски будет «бревно»?
 	\end{enumerate}
-	\begin{sol}
-	\end{sol}
-\end{problem}
 
-\subsection*{Задача 3}
+\ifbool{answers}{
+	\textbf{Решение:}
+	
+}
 
-\subsection*{Задача 3}
+
+\section{Ещё задачи!}
 
 \subsection*{Задача 4}
 
-\section{Ещё задачи}
+Бандерлог обучил логистическую регрессию и получил вектор предсказанных вероятностей принадлежностей к классу $1$. 
 
-\subsection*{Задача 5}
+$$p = \begin{bmatrix} 0.9 & 0.1 & 0.75 &  0.56 &  0.2 &  0.37 & 0.25 \end{bmatrix},$$
 
-\subsection*{Задача 6}
-\subsection*{Задача 7}
+а вектор правильный ответов равен
+
+$$y = \begin{bmatrix} 1 & 0 &0 & 1 &1 & 0 & 0. \end{bmatrix}$$
+
+\begin{enumerate}
+	\item[а)]  Бинаризуйте ответ по порогу $t$ и посчитайте точность и полноту для $t = 0.3$ и для  $t = 0.8$.
+	\item[б)]  Две ситуации и когда какой юзать либо PR-кривая. 
+	\item[в)]  Постройте ROC-кривую и найдите площадь под ней. 
+ 
+\end{enumerate}
+
+\ifbool{answers}{
+	\textbf{Решение:}
+	
+	\begin{enumerate}
+		\item[а)] 
+		\item[б)] 
+		\item[в)] 
+	\end{enumerate}
+	
+}
 
 
 \end{document}

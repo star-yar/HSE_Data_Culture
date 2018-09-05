@@ -103,6 +103,16 @@
 %\booltrue{answers}
 \boolfalse{answers}
 
+\usepackage{enumitem}
+% бульпоинты в списках
+\definecolor{myblue}{rgb}{0, 0.45, 0.70}
+\newcommand*{\MyPoint}{\tikz \draw [baseline, fill=myblue,draw=blue] circle (2.5pt);}
+\renewcommand{\labelitemi}{\MyPoint}
+
+% расстояние в списках
+\setlist[itemize]{parsep=0.4em,itemsep=0em,topsep=0ex}
+\setlist[enumerate]{parsep=0.4em,itemsep=0em,topsep=0ex}
+
 \begin{document}
 
 \section*{Самостоятельная работа номер 1. Вариант I}
@@ -228,6 +238,19 @@ $$ y = 1000 - 100 \cdot  x_1 + 200 \cdot  x_2.$$
 \begin{center}
 	\includegraphics[scale=0.7]{memes.png}
 \end{center}
+
+
+\newpage 
+
+
+\section*{Кекс}
+
+
+сделать его с воронкой продаж и тп 
+
+
+
+
 
 
 \end{document}
