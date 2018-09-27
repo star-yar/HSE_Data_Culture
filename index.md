@@ -7,13 +7,36 @@
 ## Логи семинаров
 
 
-__Семинар 2-3 (кластеризация)__
+### Семинар 2-3 (кластеризация)
 
-* Скоро тут будут материалы!
+* Решение всех ручных задач с семинара появится после самостоятельной (хммм, с чего бы это...)
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1.pdf) для семинара.
+* [Тетрадка с кодом и моделями](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization.ipynb) для семинара. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/Online%20Retail.xlsx) для семинара.  
 
-__Семинар 1__
+__Дополнительные материалы:__
 
-* Мы писали контрольную работу. Тут появится её решение.
+* [Тетрадка с ещё одним примером кластеризации:](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.2%20Banners.ipynb) размещение рекламных щитов. [Данные по чекинам](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/checkins.csv) для тетрадки.
+* Небольшой и [очень неформальный текст](http://nbviewer.jupyter.org/github/FUlyankin/ekanam_grand_research/blob/master/Posts/3.1%20Public_clusters.ipynb) про тематические модели, к которому есть отсылка в семинарской тетрадке с кодом.
+* [Бонусные материалы по питону:](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.3%20bonus_data%20structure.ipynb) структуры данных в питоне.
+
+__Домашка:__
+
+* Дорешать ручные задачи, разобраться в классных задачах, будет самостоятельная.
+* Внимательно прочитать классную тетрадку с кодом. Решить задания в конце неё.
+* Вспомнить всё про кросс-валидацию и классификацию.
+* По желанию посмотреть дополнительные материалы.
+
+
+### Семинар 1
+
+* [Задание](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Номер_группы_Фамилия_Контрольная.ipynb) для контрольной работы.
+* [Решение](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Решебник.ipynb) контрольной работы.
+* [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/kc_house_data.csv) для контрольной работы.
+
+__Домашка:__
+
+* Держать себя в руках, не плакать, ждать баллы.
+* Повторить что такое кластеризация.
 
 
 ## Книжки и видяшки
