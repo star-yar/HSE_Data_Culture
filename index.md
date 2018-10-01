@@ -31,7 +31,7 @@ __Домашка:__
 
 * [Задание 1](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_1.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_1_решебник.ipynb) Использовать [данны по титанику](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/titanic.csv) и по [кофе.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Data_for_exercise_1.xlsx)
 
-* [Задание 2](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2_решебник.ipynb)[Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/kc_house_data.csv) для него.
+* [Задание 2](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2_решебник.ipynb) Использовать [данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/kc_house_data.csv) для него.
 
 __Домашка:__
 
