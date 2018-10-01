@@ -29,9 +29,9 @@ __Домашка:__
 
 ### Семинар 1
 
-* [Задание](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Номер_группы_Фамилия_Контрольная.ipynb) для контрольной работы.
-* [Решение](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Решебник.ipynb) контрольной работы.
-* [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/kc_house_data.csv) для контрольной работы.
+* [Задание 1](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_1.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_1_решебник.ipynb) Использовать [данны по титанику](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/titanic.csv) и по [кофе.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Data_for_exercise_1.xlsx)
+
+* [Задание 2](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2_решебник.ipynb)[Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/kc_house_data.csv) для него.
 
 __Домашка:__
 
@@ -66,6 +66,4 @@ __Домашка:__
 
 _Итоговая оценка ставится по формуле:_
 
-```
-0.1*DataCamp + 0.1*Контрольная по Python + 0.1*Самостоятельные работы + 0.2*Кейс + 0.3*Итоговый проект + 0.2*Экзамен
-```
+> 0.1*DataCamp + 0.1*Контрольная по Python + 0.1*Самостоятельные работы + 0.2*Кейс + 0.3*Итоговый проект + 0.2*Экзамен
