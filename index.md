@@ -6,12 +6,17 @@
 
 ## Логи семинаров
 
+### Семинар 4-5 (классификация)
+
+* В первые 10 минут будет самостоятельная по кластеризации!
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2.pdf) для семинара.
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification.ipynb) с кодом и моделями. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/apple.csv)
 
 ### Семинар 2-3 (кластеризация)
 
 * Решение всех ручных задач с семинара появится после самостоятельной.
-* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1.pdf) для семинара.
-* [Тетрадка с кодом и моделями](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization.ipynb) для семинара. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/Online%20Retail.xlsx) для семинара.  
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1.pdf) для семинара. [Решения ручных задач.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1_partsol.pdf)
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization.ipynb) с кодом и моделями. [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization_sol.ipynb) из тетрадки выше. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/Online%20Retail.xlsx)
 
 __Дополнительные материалы:__
 
