@@ -4,11 +4,17 @@
 * [Чат в телеграм](https://t.me/joinchat/B2EhSBCNsbeTKFYbUkMsBA)
 * [Материалы прошлого года](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/docs/index_intro_2017.Rmd)
 
+
+
 ## Лекции
 
-# Сегментация потребителей. Кластеризация
-* [Лекция Рожкова А.Г.] (https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/%D0%A0%D0%A3%D0%A0%D0%9C.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)
-* [Лекция Теванян Э.А.] (https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/%D0%A0%D0%A3%D0%A0%D0%9C.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+### Сегментация потребителей. Кластеризация
+* [Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/%D0%A0%D0%A3%D0%A0%D0%9C.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+* [Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/%D0%A0%D0%A3%D0%A0%D0%9C.%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%CC%86.%20%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+
+
+
+
 ## Логи семинаров
 
 ### Семинар 4-5 (классификация)
@@ -49,7 +55,7 @@ __Домашка:__
 
 ## Книги и лекции
 
-* [Немного лекций](https://events.yandex.ru/ lib/talks/6063/) про ML в маркетинге.
+* [Немного лекций](https://events.yandex.ru/lib/talks/6063/) про ML в маркетинге.
 * [Отличная вводная специализация](https://www.coursera.org/specializations/machine-learning-data-analysis) по машинному обучению от Яндекса.
 * [Отличная научпоп книга](https://yadi.sk/d/K90nYhmx3WEfoQ) про то, когда появится настоящий искусственный интеллект.
 
