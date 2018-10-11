@@ -4,6 +4,11 @@
 * [Чат в телеграм](https://t.me/joinchat/B2EhSBCNsbeTKFYbUkMsBA)
 * [Материалы прошлого года](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/docs/index_intro_2017.Rmd)
 
+## Лекции
+
+# Сегментация потребителей. Кластеризация
+* [Лекция Рожкова А.Г.] ()
+* [Лекция Теванян Э.А.] ()
 ## Логи семинаров
 
 ### Семинар 4-5 (классификация)
