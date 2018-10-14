@@ -8,11 +8,11 @@
 
 ## Лекции
 
-### Сегментация потребителей. Кластеризация
+#### Сегментация потребителей. Кластеризация
 * [Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/1.1 Сегментация.pdf)
 * [Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/1.2 Сегментация потребителей. Кластеризация.pdf)
 
-### Привлечение клиентов. Классификация
+#### Привлечение клиентов. Классификация
 * [Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.1 Привлечение клиентов.pdf)
 
 
@@ -21,13 +21,17 @@
 
 ## Логи семинаров
 
-### Семинар 4-5 (классификация)
+#### Семинар 6-7 (регрессия)
+
+* В первые 10 минут будет самостоятельная по классификации! Повторите теорию, особенно кросс-валидацию, задачки про муравьёв и деревья.
+
+#### Семинар 4-5 (классификация)
 
 * В первые 10 минут будет самостоятельная по кластеризации!
 * [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2.pdf) для семинара.
 * [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification.ipynb) с кодом и моделями. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/apple.csv)
 
-### Семинар 2-3 (кластеризация)
+#### Семинар 2-3 (кластеризация)
 
 * Решение всех ручных задач с семинара появится после самостоятельной.
 * [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1.pdf) для семинара. [Решения ручных задач.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1_partsol.pdf)
@@ -38,15 +42,8 @@ __Дополнительные материалы:__
 * [Тетрадка с ещё одним примером кластеризации:](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.2%20Banners.ipynb) размещение рекламных щитов. [Данные по чекинам](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/checkins.csv) для тетрадки.
 * [Бонусные материалы по питону:](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.3%20bonus_data%20structure.ipynb) структуры данных в питоне.
 
-__Домашка:__
 
-* Дорешать ручные задачи, разобраться в классных задачах, будет самостоятельная.
-* Внимательно прочитать классную тетрадку с кодом. Решить задания в конце неё.
-* Вспомнить всё про кросс-валидацию и классификацию.
-* По желанию посмотреть дополнительные материалы.
-
-
-### Семинар 1
+#### Семинар 1
 
 * [Задание 1](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_1.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_1_решебник.ipynb) Использовать [данные по титанику](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/titanic.csv) и по [кофе.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Data_for_exercise_1.xlsx)
 
