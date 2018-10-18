@@ -14,7 +14,7 @@
 
 #### Привлечение клиентов. Классификация
 * [Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.1 Привлечение клиентов.pdf)
-
+* [Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.2 Привлечение_клиентов_Классификация.pdf)
 
 
 
