@@ -25,11 +25,12 @@
 
 * В первые 10 минут будет самостоятельная по классификации! Повторите теорию, особенно кросс-валидацию, задачки про муравьёв и деревья.
 
+
 #### Семинар 4-5 (классификация)
 
 * В первые 10 минут будет самостоятельная по кластеризации!
-* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2.pdf) для семинара.
-* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification.ipynb) с кодом и моделями. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/apple.csv)
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2.pdf) для семинара. [Решение ручных задач.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2_solution.pdf)
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification.ipynb) с кодом и моделями. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/apple.csv) [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification_solution.ipynb) из тетрадки выше.
 
 #### Семинар 2-3 (кластеризация)
 
