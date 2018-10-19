@@ -8,13 +8,18 @@
 
 ## Лекции
 
-#### Сегментация потребителей. Кластеризация
-* [Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/1.1 Сегментация.pdf)
-* [Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/1.2 Сегментация потребителей. Кластеризация.pdf)
+* [Хочу все лекции сразу. Обожаю лекции.](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/lectures.zip)
 
-#### Привлечение клиентов. Классификация
-* [Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.1 Привлечение клиентов.pdf)
-* [Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.2 Привлечение_клиентов_Классификация.pdf)
+#### Сегментация потребителей, кластеризация
+* [1.1 Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/1.1 Сегментация.pdf)
+* [1.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/1.2%20Сегментация%20потребителей.%20Кластеризация.pdf)
+
+#### Привлечение клиентов, классификация
+* [2.1 Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.1 Привлечение клиентов.pdf)
+* [2.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.2%20Привлечение_клиентов_Классификация.pdf)
+
+#### Продажи, регрессия
+* [3.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/3.2%20Продажи.%20Регрессия.pdf)
 
 
 
@@ -23,20 +28,24 @@
 
 #### Семинар 6-7 (регрессия)
 
-* В первые 10 минут будет самостоятельная по классификации! Повторите теорию, особенно кросс-валидацию, задачки про муравьёв и деревья.
-
+* [Хочу всё и сразу](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_67.zip)
+* В первые 10 минут будет самостоятельная по классификации!
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/seminar_3.pdf) про регрессию. И [их решение.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/seminar_3_solution.pdf)
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/3.1%20Продажи%20и%20линейная%20регрессия..ipynb) про продажи и регрессию. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/walmart.csv) к ней.
+* [Задание](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/3.2%20regularization.ipynb) про велосипеды и спрос на них. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/bikes_rent.csv) к нему, а также [его решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/3.2%20regularization_solution.ipynb)
 
 #### Семинар 4-5 (классификация)
 
+* [Хочу всё и сразу!](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_45.zip)
 * В первые 10 минут будет самостоятельная по кластеризации!
 * [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2.pdf) для семинара. [Решение ручных задач.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/seminar_2_solution.pdf)
-* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification.ipynb) с кодом и моделями. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/apple.csv) [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification_solution.ipynb) из тетрадки выше.
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification.ipynb) про привлечение и удержание. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/apple.csv) [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_45/2.%20Classification_solution.ipynb) из тетрадки выше.
 
 #### Семинар 2-3 (кластеризация)
 
-* Решение всех ручных задач с семинара появится после самостоятельной.
-* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1.pdf) для семинара. [Решения ручных задач.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1_partsol.pdf)
-* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization.ipynb) с кодом и моделями. [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization_sol.ipynb) из тетрадки выше. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/Online%20Retail.xlsx)
+* [Хочу всё и сразу](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_23.zip)
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1.pdf) для семинара. [Решения ручных задач.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/seminar_1_solution.pdf)
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization.ipynb) про сегментацию. [Решение задания](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/1.1%20Segmantation_clusterization_sol.ipynb) из тетрадки выше. [Данные.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_23/Online%20Retail.xlsx)
 
 __Дополнительные материалы:__
 
