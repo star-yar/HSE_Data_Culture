@@ -30,7 +30,7 @@
 
 * [Хочу всё и сразу](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_67.zip)
 * В первые 10 минут будет самостоятельная по классификации!
-* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/seminar_3.pdf) про регрессию. И [их решение.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/seminar_3_solution.pdf)
+* [Ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/seminar_3.pdf) про регрессию. 
 * [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/3.1%20Продажи%20и%20линейная%20регрессия..ipynb) про продажи и регрессию. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/walmart.csv) к ней.
 * [Задание](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/3.2%20regularization.ipynb) про велосипеды и спрос на них. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/bikes_rent.csv) к нему, а также [его решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_67/3.2%20regularization_solution.ipynb)
 
