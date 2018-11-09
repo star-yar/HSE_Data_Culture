@@ -26,6 +26,20 @@
 
 ## Логи семинаров
 
+#### Семинар 9 (кекс)
+
+* [Файл для подготовки к кексу](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/kekes_intro.pdf)
+* [Формулировка кекса](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/kekes_task.pdf)
+
+#### Семинар 8 (метрики классификации)
+
+* [Хочу всё и сразу](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_89.zip)
+* В первые 10 минут пишем самостоялку по регрессии!
+* [Ручные задачи по метрикам классификации,](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/seminar_4.pdf) решение для которых набрать мне было лениво, поэтому его не будет
+* [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/4.%20Отток%20клиентов%2C%20метрики%20классификации.ipynb) про классификацию и отток клиентов и [данные для неё](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/telecom_churn.csv)
+
+
+
 #### Семинар 6-7 (регрессия)
 
 * [Хочу всё и сразу](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_67.zip)
