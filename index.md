@@ -35,10 +35,15 @@
 
 * [Хочу всё и сразу](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/ML%20for%20marketing%202018%20autumn/sem_89.zip)
 * В первые 10 минут пишем самостоялку по регрессии!
-* [Ручные задачи по метрикам классификации,](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/seminar_4.pdf) решение для которых набрать мне было лениво, поэтому его не будет
+* [Ручные задачи по метрикам классификации,](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/seminar_4.pdf) решение для которых я наберу, потому что Оля заставила
 * [Тетрадка](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/4.%20Отток%20клиентов%2C%20метрики%20классификации.ipynb) про классификацию и отток клиентов и [данные для неё](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/telecom_churn.csv)
 
+__Дополнительные материалы:__
 
+* [КвазиНаучный блог Александра Дьяконова](https://dyakonov.org) про анализ данных
+* Немного про [метрики в задаче регрессии](https://dyakonov.org/2018/10/23/функции-ошибок-в-задачах-регрессии/#more-6440)
+* [Немного про ROC-AUC](https://dyakonov.org/2017/07/28/auc-roc-площадь-под-кривой-ошибок/#more-5362)
+* Любая другая статья
 
 #### Семинар 6-7 (регрессия)
 
@@ -74,9 +79,6 @@ __Дополнительные материалы:__
 
 * [Задание 2](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2.ipynb) для контрольной работы и его [решение.](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/Datacamp_кр_2_решебник.ipynb) Использовать [данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1/kc_house_data.csv) для него.
 
-__Домашка:__
-
-* Повторить что такое кластеризация.
 
 
 ## Книги и лекции
