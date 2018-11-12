@@ -26,6 +26,15 @@
 
 ## Логи семинаров
 
+#### Семинар 11 (защита проекта)
+
+* [Правила сдачи итогового проекта](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1011/itog_proj.ipynb)
+
+
+#### Семинар 10 (рекомендации)
+
+* Тут будет кулстори про пиво и подгузники
+
 #### Семинар 9 (кекс)
 
 * [Файл для подготовки к кексу](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_89/kekes_intro.pdf)
