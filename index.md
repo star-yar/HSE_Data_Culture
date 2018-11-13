@@ -19,8 +19,13 @@
 * [2.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/2.2%20Привлечение_клиентов_Классификация.pdf)
 
 #### Продажи, регрессия
+* [3.1 Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/3.1%20Продажи_CS%26US.pdf)
 * [3.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/3.2%20Продажи.%20Регрессия.pdf)
 
+
+#### Отток или удержание клиентов (угадайте кто из лекторов оптимист, а кто пессимист)
+* [4.1 Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/4.1%20Удержание%20клиентов.pdf)
+* [4.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/4.2%20Отток%20клиентов..pdf)
 
 
 
