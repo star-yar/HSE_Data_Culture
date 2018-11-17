@@ -28,6 +28,9 @@
 * [4.2 Лекция Теванян Э.А.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/4.2%20Отток%20клиентов..pdf)
 
 
+#### Рекомендательные системы
+* [5. Лекция Рожкова А.Г.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/lectures/5.Рекомендательные_системы.pdf)
+
 
 ## Логи семинаров
 
