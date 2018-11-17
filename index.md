@@ -41,7 +41,7 @@
 
 #### Семинар 10 (рекомендации)
 
-* Тут будет кулстори про пиво и подгузники
+* [Ищем продукты,](http://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1011/correlations.ipynb) которые чаще всего покупаются вместе. [Данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/ML%20for%20marketing%202018%20autumn/sem_1011/groceries.csv) для поисков.
 
 #### Семинар 9 (кекс)
 
