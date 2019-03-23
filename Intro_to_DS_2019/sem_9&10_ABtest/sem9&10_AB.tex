@@ -1,0 +1,200 @@
+%!TEX TS-program = xelatex
+\documentclass[12pt, a4paper, oneside]{article}
+
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools}  % пакеты для математики
+
+\usepackage[english, russian]{babel} % выбор языка для документа
+\usepackage[utf8]{inputenc} % задание utf8 кодировки исходного tex файла
+\usepackage[X2,T2A]{fontenc}        % кодировка
+
+\usepackage{fontspec}         % пакет для подгрузки шрифтов
+\setmainfont{Linux Libertine O}   % задаёт основной шрифт документа
+
+\usepackage{unicode-math}     % пакет для установки математического шрифта
+\setmathfont[math-style=upright]{Neo Euler} % шрифт для математики
+
+
+%%%%%%%%%% Работа с картинками %%%%%%%%%
+\usepackage{graphicx}                  % Для вставки рисунков
+\usepackage{graphics}
+\graphicspath{{images/}{pictures/}}    % можно указать папки с картинками
+\usepackage{wrapfig}                   % Обтекание рисунков и таблиц текстом
+
+%%%%%%%%%% Для таблиц   %%%%%%%%%%%%%
+\usepackage{booktabs}            % таблицы как в книгах!  
+
+
+%%%%%%%%%%%%%%%%%%%%%%%% Графики и рисование %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{tikz, pgfplots}  % язык для рисования графики из latex'a
+
+%%%%%%%%%% Гиперссылки %%%%%%%%%%
+\usepackage{xcolor}              % разные цвета
+
+\usepackage{hyperref}
+\hypersetup{
+	unicode=true,           % позволяет использовать юникодные символы
+	colorlinks=true,       	% true - цветные ссылки, false - ссылки в рамках
+	urlcolor=blue,          % цвет ссылки на url
+	linkcolor=red,          % внутренние ссылки
+	citecolor=green,        % на библиографию
+	pdfnewwindow=true,      % при щелчке в pdf на ссылку откроется новый pdf
+	breaklinks              % если ссылка не умещается в одну строку, разбивать ли ее на две части?
+}
+
+
+\usepackage{todonotes} % для вставки в документ заметок о том, что осталось сделать
+% \todo{Здесь надо коэффициенты исправить}
+% \missingfigure{Здесь будет Последний день Помпеи}
+% \listoftodos --- печатает все поставленные \todo'шки
+
+\usepackage[paper=a4paper, top=20mm, bottom=15mm,left=20mm,right=15mm]{geometry}
+\usepackage{indentfirst}       % установка отступа в первом абзаце главы
+
+\usepackage{setspace}
+\setstretch{1.15}  % Межстрочный интервал
+\setlength{\parskip}{4mm}   % Расстояние между абзацами
+% Разные длины в латехе https://en.wikibooks.org/wiki/LaTeX/Lengths
+
+
+\usepackage{xcolor} % Enabling mixing colors and color's call by 'svgnames'
+
+\definecolor{MyColor1}{rgb}{0.2,0.4,0.6} %mix personal color
+\newcommand{\textb}{\color{Black} \usefont{OT1}{lmss}{m}{n}}
+\newcommand{\blue}{\color{MyColor1} \usefont{OT1}{lmss}{m}{n}}
+\newcommand{\blueb}{\color{MyColor1} \usefont{OT1}{lmss}{b}{n}}
+\newcommand{\red}{\color{LightCoral} \usefont{OT1}{lmss}{m}{n}}
+\newcommand{\green}{\color{Turquoise} \usefont{OT1}{lmss}{m}{n}}
+
+\usepackage{titlesec}
+\usepackage{sectsty}
+%%%%%%%%%%%%%%%%%%%%%%%%
+%set section/subsections HEADINGS font and color
+\sectionfont{\color{MyColor1}}  % sets colour of sections
+\subsectionfont{\color{MyColor1}}  % sets colour of sections
+
+%set section enumerator to arabic number (see footnotes markings alternatives)
+\renewcommand\thesection{\arabic{section}.} %define sections numbering
+\renewcommand\thesubsection{\thesection\arabic{subsection}} %subsec.num.
+
+%define new section style
+\newcommand{\mysection}{
+	\titleformat{\section} [runin] {\usefont{OT1}{lmss}{b}{n}\color{MyColor1}} 
+	{\thesection} {3pt} {} } 
+
+
+%	CAPTIONS
+\usepackage{caption}
+\usepackage{subcaption}
+%%%%%%%%%%%%%%%%%%%%%%%%
+\captionsetup[figure]{labelfont={color=Turquoise}}
+
+\pagestyle{empty}
+
+
+%%%%%%%%%% Свои команды %%%%%%%%%%
+\usepackage{etoolbox}    % логические операторы для своих макросов
+
+% Все свои команды лучше всего определять не по ходу текста, как это сделано в этом документе, а в преамбуле!
+
+% Одно из применений - уничтожение какого-то куска текста!
+\newbool{answers}
+\booltrue{answers}
+%\boolfalse{answers}
+
+\newbool{addanswers}
+\boolfalse{addanswers}
+
+\usepackage{enumitem}
+% бульпоинты в списках
+\definecolor{myblue}{rgb}{0, 0.45, 0.70}
+\newcommand*{\MyPoint}{\tikz \draw [baseline, fill=myblue,draw=blue] circle (2.5pt);}
+\renewcommand{\labelitemi}{\MyPoint}
+
+% расстояние в списках
+\setlist[itemize]{parsep=0.4em,itemsep=0em,topsep=0ex}
+\setlist[enumerate]{parsep=0.4em,itemsep=0em,topsep=0ex}
+
+\begin{document}
+
+
+
+\section*{Семинар про АБ-тесты }
+
+\subsection*{Задача 1} 
+
+Скарлет, Сьюлин и Кэррин исследуют рост людей в Атланте. 
+
+Аристарх,  Маша и Паша исследуют рост людей. 
+
+Три исследователя, все исследуют рост людей. Сделали три выборки. 
+
+Илья занимается баскетболом, поэтому он переписал из журнала тренера рост членов команды
+
+Маша измеряет рост людей на остановке, пока те ждут автобус. 
+
+Паша ещё чет делает не оч стабильное. Рост девушек пока они спят в его кровати - ???
+
+
+У кого из исследователей получится репрезентативная выборка? 
+
+
+
+
+
+\subsection*{Задача 2} 
+
+По всем 4 наблюдениям реально равно. 
+
+4 наблюдения всего в генеральной совокупности.  Мы хотим проверить равно ли оно чему-то.  Для этого делаем два наблюдения и смотрим равно ли. 
+
+мы делаем два наблюдения и считаем среднее. Если равно да, если не равно нет. 
+
+В реальности равно. Как нам получить правильные выводы, если все 4 наблюдения мы никогда не можем собрать. 
+
+Построить распределение среднего. Отсюда родить статистический критерий для среднего.  Типо если не сильно отклоняется ок, сильно не ок. Плавно перейти к ЦПТ отсюда. 
+
+
+что-нибудь с монеткой
+
+
+\subsection*{Задача 3} 
+
+Проверить какую-нибудь гипотезу через правило трёх сигм и нормальное распределение про среднее. 
+
+
+\subsection*{Задача 4} 
+
+
+
+\subsection*{Задача 5} 
+
+
+\subsection*{Задача 6} 
+
+Во время Второй Мировой войны американские военные собрали статистику попаданий пуль в фюзеляж самолёта. По самолётам, вернувшимся из полёта на базу, была составлена карта повреждений среднестатистического самолёта. С этими данными военные обратились к статистику Абрахаму Вальду с вопросом, в каких местах следует увеличить броню самолёта.
+Что посоветовал Абрахам Вальд и почему?
+
+
+
+ Профессор, я решал эту задачу 3 часа, а ответ не совпадает. Где я сделал ошибку? — Предположив, что ответы к задачнику верные.
+
+
+
+\subsection*{Задачка 0 (в которой мы разгоняем сомнения)}
+
+\begin{itemize}
+	\item  Как Сергею понять где кофе любят больше? 
+	\item Как Акулине правильно провести АБ-тест своего снадобья? 
+\end{itemize}
+
+
+\subsection*{Задачка 0 (в которой сомнение селится в наших головах)}
+
+\begin{itemize}
+	\item  Хипстер Сергей пристаёт на улице к людям со странными вопросами. Он опросил в Питере и Москве по сто человек. Каждому он задавал вопрос: "Кофе любишь?"  В Москве "Да" сказали $50$ человек, в Питере $55$ человек. Можно ли исходя из этого сделать вывод, что в Питере кофе любят больше? 
+	
+	\item Знахарка Акулина смешала в тазике "доктор Мом" с соком редьки. Этот настой она дала простудившейся внучке. Внучка выздоровела. Означает ли это, что лекарство работает? Предположим, что знахарка дала своё "лекарство" пяти простуженным внучкам. Три из них выздоровели, две нет. Означает ли это, что лекарство в большей части случаев помогает? 
+\end{itemize}
+
+
+\end{document}
