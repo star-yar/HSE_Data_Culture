@@ -17,5 +17,19 @@ __Семинар 6 (Регрессия)__
 * [Ручная часть.](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem_6.pdf) Задач много, но решаются они быстро. Если потеряли темп, боитесь что не хватит времени на питон, скипайте их и переходите к питону. 
 * ??? Комп часть 
 
+__Семинар 7-8__ 
+
+* [Ручная часть](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7_classification/sem_7.pdf) для семинара по метрикам
+* [Ручная часть](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_8_knn_tree/sem_8.pdf) для семинара по алгоритмам и кросс-валидации
+* ??? общая комп часть, но на одной из пар упор на метрики, на другой на алгоритмы (наверное)
+
+__Семинар 9__ 
+
+__Семинар 10__ 
+
+
+
+
+
 
 
