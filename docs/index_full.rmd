@@ -9,6 +9,9 @@ lang: ru-RU
 
 __Семинар 1-2 (питон)__ 
 
+* [Голый 1 сем](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_1_python_students.ipynb)
+* [Сделанный 1 сем](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_1_python_done.ipynb)
+
 
 __Семинар 3 (математика)__
 
