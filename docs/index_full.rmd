@@ -9,13 +9,15 @@ lang: ru-RU
 
 __Семинар 1 (питон)__ 
 
+* [Альтернативная версия семинара 1](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem1_introdution_python.ipynb)
+
 * [Голый 1 сем](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_1_python_students.ipynb)
 * [Сделанный 1 сем](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_1_python_done.ipynb)
 
 __Семинар 2 (pandas)__
 
-* [Тетрадка с введением в pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_2_pandas%20tutorial.ipynb)
-* [Решение семинара](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_2_pandas%20tutorial_solved.ipynb)
+* [Тетрадка с введением в pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial.ipynb)
+* [Решение семинара](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial_solved.ipynb)
 * [Данные для семинара](https://raw.githubusercontent.com/FUlyankin/HSE_Data_Culture/master/Intro_to_DS_2019/sem_1%262_introduction/Pandas%20-%20Q1%20Sales.csv)
 
 
