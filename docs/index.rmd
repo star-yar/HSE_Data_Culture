@@ -18,8 +18,8 @@ __Тут будут презентации с лекций__
 
 __Семинар 2__
 
-* [Тетрадка с введением в pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial.ipynb)
-* [Данные для семинара](https://raw.githubusercontent.com/FUlyankin/HSE_Data_Culture/master/Intro_to_DS_2019/sem_1%262_introduction/Pandas%20-%20Q1%20Sales.csv)
+* [Скачать второй семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_2.zip)
+* [Посмотреть тетрадку с введением в pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial.ipynb)
 
 __Семинар 1__
 
