@@ -1,26 +1,26 @@
 ---
-title: "Анализ данных для маркетологов и менеджеров сезон 2019"
-date: "`r format(Sys.time(), '%d.%m.%Y')`"
+title: "Introduction to DS (сезон 2019)"
 output: html_document
 lang: ru-RU
 ---
 
-<style>
-table {
-    width:100%;
-}
-</style>
+Это страничка с вводным курсом по анализу данных для менеджеров и маркетологов. Тут лежат все полезные материалы, которые только можно себе представить.
 
-Это страничка с вводным курсом по анализу данных для менеджеров и маркетологов! 
 
-## Оценки и домашки
+### Оценки и домашки
 
 * Текущие оценки: [БММ-181,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=144425580&single=true) [БММ-182,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=5661136&single=true) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
 * [Форма для сдачи домашек для маркетологов](https://docs.google.com/forms/d/e/1FAIpQLSc4AFU8i8C6ZFHQhYXUIUTBv9cWjU-sOJPsDspLwJU1L-KDFw/viewform)
 
-| Задание  | Дедлайн  | 
-|----------|----------|
-| [Мини-дз 1](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw1.zip)  | 16.04.2019 23:59  |
+
+### Домашние задания
+
+Числа в скобках - это __дедлайн.__
+
+1. [Мини-дз 1: Введение в python](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw1.zip)  (16.04.2019 23:59)
+2. [Мини-дз 2: Введение в pandas]( )
+3. [Мини-дз 3: Математика для ML]( )
+4. [Мини-дз 4: Основы статистики]( )
 
 
 
