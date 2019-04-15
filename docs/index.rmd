@@ -47,56 +47,16 @@ table {
 | Seconds | 301 | 283 |
 
 
-<table>
-  <tr>
-    <th> </th>
-    <th> домашка </th>
-    <th> шаблон в .rnw и юпитере</th>
-    <th> баллы </th>
-    <th> дедлайн </th>
-  </tr>
-  <tr>
-    <td> 1 </td>
-    <td> <a href="https://nbviewer.jupyter.org/github/FUlyankin/r_probability/blob/master/end_seminars_2019/HW/HW1.ipynb" target="_blank"> Генерация случайных величин</a> </td>
-    <td> Хочу шаблон </td>
-    <td> 100 </td>
-    <td> 12.05.19 </td>
-  </tr>
-  <tr>
-    <td> 2 </td>
-    <td> <a href="https://nbviewer.jupyter.org/github/FUlyankin/r_probability/blob/master/end_seminars_2019/HW/HW2.ipynb" target="_blank"> Сходимости, точечные оценки</a> </td>
-    <td> Хочу шаблон </td>
-    <td> 100 </td>
-    <td> 26.05.19 </td>
-  </tr>
-  <tr>
-    <td> 3 </td>
-    <td> <a href="https://nbviewer.jupyter.org/github/FUlyankin/r_probability/blob/master/end_seminars_2019/HW/HW3.ipynb" target="_blank"> Метод максимального правдоподобия, метод моментов </a> </td>
-    <td> Хочу шаблон </td>
-    <td> 100 </td>
-    <td> 09.06.19 </td>
-  </tr>
-  <tr>
-    <td> 4 </td>
-    <td> <a href="https://github.com/FUlyankin/LaTeX/blob/master/Logi_2019/Homework_2019/task_4(bigleb).pdf" target="_blank"> ещё чёт </a> </td>
-    <td> Хочу шаблон </td>
-    <td> 100 </td>
-    <td> 30.06.19 </td>
-  </tr>
-</table>
+<center>
 
-<br>
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
-gфукп3пй34п3ц3п
+</center>
 
-***
-
-### Логи семинаров
-
-__Семинар 2__
-
-* [Скачать второй семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_2.zip)
-* [Посмотреть тетрадку с введением в pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial.ipynb)
 
 __Семинар 1__
 
