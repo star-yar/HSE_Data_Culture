@@ -11,7 +11,7 @@ lang: ru-RU
 
 * Текущие оценки: [БММ-181,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=144425580&single=true) [БММ-182,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=5661136&single=true) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
 * [Форма для сдачи домашек для маркетологов](https://docs.google.com/forms/d/e/1FAIpQLSc4AFU8i8C6ZFHQhYXUIUTBv9cWjU-sOJPsDspLwJU1L-KDFw/viewform)
-* [Тут будет ссылка на видео про то, как сдавать домашки]( )
+* [Тут будет ссылка на видео про то, как сдавать домашки в anytask]( )
 
 ### Домашние задания
 
@@ -49,26 +49,24 @@ lang: ru-RU
 
 __Семинар 4 (основы статистики)__
 
-* [Скачать семинар]( )
-* [Посмотреть ручные задачи]( )
-* [Посмотреть на питонячью тетрадку с матстатом]( )
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/sem_4.zip)
+* [Посмотреть ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_4_matstat/sem4_matstat.pdf)
+* [Посмотреть на питонячью тетрадку с матстатом](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_4_matstat/sem4_matstat.ipynb)
 
 __Семинар 3 (математика для ML)__
 
-* [Скачать семинар]( )
-* [Посмотреть на питонячью тетрадку с математикой]( )
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/sem_3.zip)
+* [Посмотреть на питонячью тетрадку с математикой](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_3_math/sem_3.ipynb)
 
 __Семинар 2 (вводимся в pandas)__
 
-* [Скачать семинар]( )
-* [Посмотреть на питонячью тетрадку с pandas]( )
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_2.zip)
+* [Посмотреть на питонячью тетрадку с pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial.ipynb)
 
 __Семинар 1 (вводимся в python)__
 
-* [Скачать первый семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_1.zip)
-* [Посмотреть на альтернативную тетрадку с введением в python](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem1_introdution_python.ipynb)
-
-* [Тетрадка с введением в python](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/seminar_1_python_students.ipynb)
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_1.zip)
+* [Посмотреть на тетрадку с введением в python](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem1_introdution_python.ipynb)
 
 
 ### Большой план маленьких побед (семинаров):

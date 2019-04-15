@@ -1,6 +1,5 @@
 ---
-title: "Анализ данных для маркетологов Сезон 2018-2019"
-date: "`r format(Sys.time(), '%d.%m.%Y')`"
+title: "Анализ данных для маркетологов (сезон 2018)"
 output: html_document
 lang: ru-RU
 ---
