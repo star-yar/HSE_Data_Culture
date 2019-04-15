@@ -11,54 +11,59 @@ lang: ru-RU
 
 * Текущие оценки: [БММ-181,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=144425580&single=true) [БММ-182,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=5661136&single=true) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
 * [Форма для сдачи домашек для маркетологов](https://docs.google.com/forms/d/e/1FAIpQLSc4AFU8i8C6ZFHQhYXUIUTBv9cWjU-sOJPsDspLwJU1L-KDFw/viewform)
-
+* [Тут будет ссылка на видео про то, как сдавать домашки]( )
 
 ### Домашние задания
 
 Числа в скобках - это __дедлайн.__
 
-1. [Мини-дз 1: Введение в python](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw1.zip)  (16.04.2019 23:59)
-2. [Мини-дз 2: Введение в pandas]( )
-3. [Мини-дз 3: Математика для ML]( )
-4. [Мини-дз 4: Основы статистики]( )
+1. [Мини-дз 1: Введение в python](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw1_intro_to_python.zip)  (16.04.2019 23:59)
+2. [Мини-дз 2: Введение в pandas](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw2_intro_to_pandas.zip)  (23.04.2019 23:59)
+3. [Мини-дз 3: Математика для ML](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/little_hw3_essential_maths.zip)  (30.04.2019 23:59)
+4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip)  (07.05.2019 23:59)
 
 
 
 ### Лекции 
 
-| Лекция   | Элен (БММ) |  Валера (УБ) |
-|----------|------------|--------------|
-| Data Science: что это такое |  [лекция 1](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%201.pdf)  |              |
-| Основы нужной математики    |          |              |
-| Учимся смотреть на данные   |          |              |
-| Знакомимся с регрессией     |          |              |
-| Знакомимся с классификацией |          |              |
-| KNN и деревья  |          |              |
-| Как принимать решение о внедрении? (АБ, гипотезы) |          |              |
-| Как расписать и обосновать продукт с применением машинного обучения? |     |    |
-| Кейсы машинного обучения в бизнесе: истории успехов и неудач |        |         |
-| Приглашённый лектор |     |       |
+1. [Data Science: что это такое](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%201.pdf)
+2. [Основы нужной математики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%202.pdf)
+3. Учимся смотреть на данные
+4. Знакомимся с регрессией
+5. Знакомимся с классификацией
+6. KNN и деревья
+7. Как принимать решение о внедрении (АБ, гипотезы)
+8. Как расписать и обосновать продукт с применением машинного обучения
+9. Кейсы машинного обучения в бизнесе: истории успехов и неудач
+10. Приглашённый лектор 
+
+> [Скачать все лекции, обожаю лекции!](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/lectures_bmm.zip)
 
 
-<br>
+-----------------------
 
-| Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+### Логи семинаров
 
+* [Датасет по vk]( )
+* [Датасет по youtube]( )
 
-<center>
+__Семинар 4 (основы статистики)__
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+* [Скачать семинар]( )
+* [Посмотреть ручные задачи]( )
+* [Посмотреть на питонячью тетрадку с матстатом]( )
 
-</center>
+__Семинар 3 (математика для ML)__
 
+* [Скачать семинар]( )
+* [Посмотреть на питонячью тетрадку с математикой]( )
 
-__Семинар 1__
+__Семинар 2 (вводимся в pandas)__
+
+* [Скачать семинар]( )
+* [Посмотреть на питонячью тетрадку с pandas]( )
+
+__Семинар 1 (вводимся в python)__
 
 * [Скачать первый семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_1.zip)
 * [Посмотреть на альтернативную тетрадку с введением в python](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem1_introdution_python.ipynb)
