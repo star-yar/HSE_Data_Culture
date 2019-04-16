@@ -82,6 +82,7 @@ __Семинар 2 (вводимся в pandas)__
 
 * [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/sem_2.zip)
 * [Посмотреть на питонячью тетрадку с pandas](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas%20tutorial.ipynb)
+* [Код, который мы писали прямо на семинаре](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_1%262_introduction/sem2_pandas_on_seminar.ipynb)
 
 __Семинар 1 (вводимся в python)__
 
