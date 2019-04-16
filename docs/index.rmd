@@ -11,9 +11,9 @@ lang: ru-RU
 
 * Текущие оценки: [БММ-181,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=144425580&single=true) [БММ-182,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=5661136&single=true) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
 * [Форма для сдачи домашек для маркетологов](https://docs.google.com/forms/d/e/1FAIpQLSc4AFU8i8C6ZFHQhYXUIUTBv9cWjU-sOJPsDspLwJU1L-KDFw/viewform) (устарела, скоро удалю)
-* [Тут будет ссылка на видео про то, как сдавать домашки в anytask]( )
+* [Небольшое видео про сдачу домашек,](https://yadi.sk/i/rVb_Nd7g8AmNog) мы теперь их сдаём в [anytask](anytask.org)
 
-__Инвайты в anytask:__
+__Инвайты в [anytask:](anytask.org)__
 
 ```
                                 БММ-181:   72K9PFp
