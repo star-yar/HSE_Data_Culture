@@ -1,6 +1,8 @@
 ---
 title: "Introduction to DS (сезон 2019)"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 lang: ru-RU
 ---
 
@@ -35,12 +37,12 @@ __Инвайты в [anytask:](https://anytask.org)__
 
 ### Домашние задания
 
-Числа в скобках - это __дедлайн.__ Для каждой домашки есть анонимная анкета, в которой вы можете высказать своё мнение о ней.
+Дедлайны по домашкам указаны в anytask. Для каждой группы свои. Для каждой домашки есть анонимная анкета, в которой вы можете высказать своё мнение о ней.
 
-1. [Мини-дз 1: Введение в python](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw1_intro_to_python.zip)  __(16.04.2019 23:59)__ [Анонимка](https://docs.google.com/forms/d/e/1FAIpQLSfI2niGkHtJMW0UEt0RiuDfLikkv9j0qjUicvHY-KkTpQqSkw/viewform)
-2. [Мини-дз 2: Введение в pandas](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw2_intro_to_pandas.zip)  __(23.04.2019 23:59)__ [Анонимка](https://docs.google.com/forms/d/e/1FAIpQLSetSVMF7XRtdEHUp9duuoNofHSOnihr8PPOYUnEna6wqLGxSA/viewform)
-3. [Мини-дз 3: Математика для ML](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/little_hw3_essential_maths.zip)  __(30.04.2019 23:59)__ [Анонимка](https://docs.google.com/forms/d/e/1FAIpQLSchfOV1ACGwQmZS2BtN-K39A81VoflcOVcGhxP1odqOIicVeA/viewform)
-4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip)  __(07.05.2019 23:59)__ [Анонимка](https://docs.google.com/forms/d/e/1FAIpQLScXIVQNUJW03k76zB5RcOHX0iORIfV-d1-8_KQS4GcuKO5SoA/viewform)
+1. [Мини-дз 1: Введение в python](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw1_intro_to_python.zip)  [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSfI2niGkHtJMW0UEt0RiuDfLikkv9j0qjUicvHY-KkTpQqSkw/viewform)
+2. [Мини-дз 2: Введение в pandas](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw2_intro_to_pandas.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSetSVMF7XRtdEHUp9duuoNofHSOnihr8PPOYUnEna6wqLGxSA/viewform)
+3. [Мини-дз 3: Математика для ML](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/little_hw3_essential_maths.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSchfOV1ACGwQmZS2BtN-K39A81VoflcOVcGhxP1odqOIicVeA/viewform)
+4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLScXIVQNUJW03k76zB5RcOHX0iORIfV-d1-8_KQS4GcuKO5SoA/viewform)
 
 
 
