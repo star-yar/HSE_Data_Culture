@@ -12,7 +12,6 @@ lang: ru-RU
 ### Оценки и домашки
 
 * Текущие оценки: [БММ-181,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=144425580&single=true) [БММ-182,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=5661136&single=true) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
-* [Форма для сдачи домашек для маркетологов](https://docs.google.com/forms/d/e/1FAIpQLSc4AFU8i8C6ZFHQhYXUIUTBv9cWjU-sOJPsDspLwJU1L-KDFw/viewform) (устарела, скоро удалю)
 * [Небольшое видео про сдачу домашек,](https://yadi.sk/i/rVb_Nd7g8AmNog) мы теперь их сдаём в [anytask](https://anytask.org)
 
 __Инвайты в [anytask:](https://anytask.org)__
@@ -43,6 +42,7 @@ __Инвайты в [anytask:](https://anytask.org)__
 2. [Мини-дз 2: Введение в pandas](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw2_intro_to_pandas.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSetSVMF7XRtdEHUp9duuoNofHSOnihr8PPOYUnEna6wqLGxSA/viewform)
 3. [Мини-дз 3: Математика для ML](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/little_hw3_essential_maths.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSchfOV1ACGwQmZS2BtN-K39A81VoflcOVcGhxP1odqOIicVeA/viewform)
 4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLScXIVQNUJW03k76zB5RcOHX0iORIfV-d1-8_KQS4GcuKO5SoA/viewform)
+5. [Мини-дз 5: Визуализация]( ) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeQRtu8Xo5g6jDJ3zxgpfMuPa5cgi3igrne40_vqVZwYnDAZA/viewform)
 
 
 
@@ -50,8 +50,8 @@ __Инвайты в [anytask:](https://anytask.org)__
 
 1. [Data Science: что это такое](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%201.pdf)
 2. [Основы нужной математики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%202.pdf)
-3. Учимся смотреть на данные
-4. Знакомимся с регрессией
+3. [Учимся смотреть на данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%203.pdf)
+4. [Знакомимся с регрессией](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%204.pdf)
 5. Знакомимся с классификацией
 6. KNN и деревья
 7. Как принимать решение о внедрении (АБ, гипотезы)
@@ -78,7 +78,7 @@ __Семинар 4 (основы статистики)__
 __Семинар 3 (математика для ML)__
 
 * [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/sem_3.zip)
-* [Посмотреть на питонячью тетрадку с математикой]https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_3_math/sem_3_essential_maths.ipynb)
+* [Посмотреть на питонячью тетрадку с математикой](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_3_math/sem_3_essential_maths.ipynb)
 * [Посмотреть на pdf с задачками](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_3_math/sem_3.pdf)
 
 __Семинар 2 (вводимся в pandas)__
