@@ -50,14 +50,15 @@ __Инвайты в [anytask:](https://anytask.org)__
 
 1. [Data Science: что это такое](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%201.pdf)
 2. [Основы нужной математики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%202.pdf)
-3. [Учимся смотреть на данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%203.pdf)
-4. [Знакомимся с регрессией](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%204.pdf)
-5. Знакомимся с классификацией
-6. KNN и деревья
-7. Как принимать решение о внедрении (АБ, гипотезы)
-8. Как расписать и обосновать продукт с применением машинного обучения
-9. Кейсы машинного обучения в бизнесе: истории успехов и неудач
-10. Приглашённый лектор 
+3. [Описательные статистики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%203.pdf)
+4. [Учимся смотреть на данные](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/lectures_bmm/Intro_to_DS.%20Lecture%204.pdf)
+5. Знакомимся с регрессией
+6. Знакомимся с классификацией
+7. KNN и деревья
+8. Как принимать решение о внедрении (АБ, гипотезы)
+9. Как расписать и обосновать продукт с применением машинного обучения
+10. Кейсы машинного обучения в бизнесе: истории успехов и неудач
+11. Приглашённый лектор 
 
 > [Скачать все лекции, обожаю лекции!](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/lectures_bmm.zip)
 
