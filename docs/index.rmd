@@ -71,7 +71,7 @@ __Инвайты в [anytask:](https://anytask.org)__
 
 __Семинар 5 (визуализация)__
 
-* [Скачать семинар]( )
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_5_visual/sem_5.zip)
 * [Посмотреть на питоновскую тетрадку с картинками](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_5_visual/sem5_visualisation.ipynb)
 
 __Семинар 4 (основы статистики)__
