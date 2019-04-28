@@ -1,0 +1,8 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1.}Общая постановка задания}{1}{section.1}
+\contentsline {section}{\numberline {2.}Продуктовые категории}{2}{section.2}
+\contentsline {section}{\numberline {3.}Сбор данных}{2}{section.3}
+\contentsline {section}{\numberline {4.}Методология сегментации}{2}{section.4}
+\contentsline {section}{\numberline {5.}Присваивание сегмента брендам}{3}{section.5}
+\contentsline {section}{\numberline {6.}Инструменты и темы курса}{3}{section.6}
+\contentsline {section}{\numberline {7.}Организационные вопросы}{3}{section.7}

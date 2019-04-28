@@ -43,6 +43,7 @@ __Инвайты в [anytask:](https://anytask.org)__
 3. [Мини-дз 3: Математика для ML](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/little_hw3_essential_maths.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSchfOV1ACGwQmZS2BtN-K39A81VoflcOVcGhxP1odqOIicVeA/viewform)
 4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLScXIVQNUJW03k76zB5RcOHX0iORIfV-d1-8_KQS4GcuKO5SoA/viewform)
 5. [Мини-дз 5: Визуализация](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_5_visual/little_hw5_visual.ipynb) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeQRtu8Xo5g6jDJ3zxgpfMuPa5cgi3igrne40_vqVZwYnDAZA/viewform)
+6. [Мини-дз 6: Регрессия]( ) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeRKTL4Obch6jmXVcx9VISuNYDpg0VS0vK0TyTimd88_6YuqA/viewform)
 
 
 
@@ -70,15 +71,22 @@ __Инвайты в [anytask:](https://anytask.org)__
 * [Датасет по vk](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/data/vk_main.csv)
 * [Датасет по youtube](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/data/youtube_data.csv)
 
+__Семинар 6 (регрессия)__
+
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_6_regression/sem_6.zip)
+* [Посмотреть на питоновскую тетрадку с картинками](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem6_regression.ipynb)
+* [Ручные задачи для семинара](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem_6.pdf) и их [решения](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem_6_semi.pdf)
+
 __Семинар 5 (визуализация)__
 
+* __ВНИМАНИЕ!__ В начале пары на 10-15 минут вас ждёт самостоялка по статистике. Не опаздывайте! 
 * [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_5_visual/sem_5.zip)
 * [Посмотреть на питоновскую тетрадку с картинками](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_5_visual/sem5_visualisation.ipynb)
 
 __Семинар 4 (основы статистики)__
 
 * [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/sem_4.zip)
-* [Посмотреть ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_4_matstat/sem4_matstat.pdf)
+* [Посмотреть ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_4_matstat/sem4_matstat.pdf) и их [решения](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_4_matstat/sem4_matstat_semi.pdf)
 * [Посмотреть на питонячью тетрадку с матстатом](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_4_matstat/sem4_matstat.ipynb)
 
 __Семинар 3 (математика для ML)__
