@@ -13,4 +13,5 @@
 *.ipynb_checkpoints
 new_hw/
 nda/
+*solving.ipynb
 *solve.pdf
