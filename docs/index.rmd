@@ -42,11 +42,13 @@ __Инвайты в [anytask:](https://anytask.org)__
 2. [Мини-дз 2: Введение в pandas](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_1%262_introduction/little_hw2_intro_to_pandas.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSetSVMF7XRtdEHUp9duuoNofHSOnihr8PPOYUnEna6wqLGxSA/viewform)
 3. [Мини-дз 3: Математика для ML](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_3_math/little_hw3_essential_maths.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSchfOV1ACGwQmZS2BtN-K39A81VoflcOVcGhxP1odqOIicVeA/viewform)
 4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLScXIVQNUJW03k76zB5RcOHX0iORIfV-d1-8_KQS4GcuKO5SoA/viewform)
-5. [Мини-дз 5: Визуализация](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_5_visual/little_hw5_visual.ipynb) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeQRtu8Xo5g6jDJ3zxgpfMuPa5cgi3igrne40_vqVZwYnDAZA/viewform)
-6. [Мини-дз 6: Регрессия]( ) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeRKTL4Obch6jmXVcx9VISuNYDpg0VS0vK0TyTimd88_6YuqA/viewform)
-
+5. [Мини-дз 5: Визуализация](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_5_visual/little_hw5_visual.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeQRtu8Xo5g6jDJ3zxgpfMuPa5cgi3igrne40_vqVZwYnDAZA/viewform)
+6. [Мини-дз 6: Регрессия](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_6_regression/little_hw6_regression.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeRKTL4Obch6jmXVcx9VISuNYDpg0VS0vK0TyTimd88_6YuqA/viewform)
+7. Мини-дз 7: Классификация
+8. Мини-дз 8: АБ-тесты
 
 * [Большое дз 1: Сегментация и описательные статистики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/big_hw/big_hw1.pdf)
+* Большое дз 2: Поиск и АБ-тесты
 
 
 ### Лекции 
@@ -72,6 +74,20 @@ __Инвайты в [anytask:](https://anytask.org)__
 
 * [Датасет по vk](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/data/vk_main.csv)
 * [Датасет по youtube](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/data/youtube_data.csv)
+
+__Семинар 9-10 (АБ-тесты)__
+
+* __ВНИМАНИЕ!__ В начале 9 семинара на 10-15 минут вас ждёт самостоялка по классификации. Не опаздывайте!
+
+
+__Семинар 7-8 (классификация)__ 
+
+* __ВНИМАНИЕ!__ В начале 7 семинара на 10-15 минут вас ждёт самостоялка по регрессии. Не опаздывайте!
+* [Скачать семинар]( )
+* [Посмотреть на питоновскую тетрадку]( )
+* [Посмотреть на ручные задачи по метрикам классификации]( ) и на их [решения]( )
+* [Посмотреть на ручные задачи по алгоритмам классификации]( ) и на их [решения]( )
+
 
 __Семинар 6 (регрессия)__
 
