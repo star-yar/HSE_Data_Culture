@@ -44,8 +44,8 @@ __Инвайты в [anytask:](https://anytask.org)__
 4. [Мини-дз 4: Основы статистики](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_4_matstat/little_hw4_matstat.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLScXIVQNUJW03k76zB5RcOHX0iORIfV-d1-8_KQS4GcuKO5SoA/viewform)
 5. [Мини-дз 5: Визуализация](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_5_visual/little_hw5_visual.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeQRtu8Xo5g6jDJ3zxgpfMuPa5cgi3igrne40_vqVZwYnDAZA/viewform)
 6. [Мини-дз 6: Регрессия](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_6_regression/little_hw6_regression.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSeRKTL4Obch6jmXVcx9VISuNYDpg0VS0vK0TyTimd88_6YuqA/viewform)
-7. Мини-дз 7: Классификация
-8. Мини-дз 8: АБ-тесты
+7. Мини-дз 7: Классификация  [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSdYUMyAQcRrIkjKni31LKSz62iSRjyALZhu1zsofzu_WbX9bA/viewform)
+8. Мини-дз 8: АБ-тесты  [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSfuBzlC_p1vWgt0sY0ZPyFBQyBLTCZ0SWdc2WGnNWv2aJxycA/viewform)
 
 * [Большое дз 1: Сегментация и описательные статистики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/big_hw/big_hw1.pdf)
 * Большое дз 2: Поиск и АБ-тесты
