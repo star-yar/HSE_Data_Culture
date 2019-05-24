@@ -85,14 +85,14 @@ __Семинар 7-8 (классификация)__
 * __ВНИМАНИЕ!__ В начале 7 семинара на 10-15 минут вас ждёт самостоялка по регрессии. Не опаздывайте!
 * [Скачать семинар]( )
 * [Посмотреть на питоновскую тетрадку](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7%268_classification.ipynb)
-* [Посмотреть на ручные задачи по классификации](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7-8_class.pdf) и на их [решения](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7-8_class_solving.pdf)
+* [Посмотреть на ручные задачи по классификации](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7-8_class.pdf) и на их [решения]()
 
 
 __Семинар 6 (регрессия)__
 
 * [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_6_regression/sem_6.zip)
 * [Посмотреть на питоновскую тетрадку с картинками](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem6_regression.ipynb)
-* [Ручные задачи для семинара](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem_6.pdf) и их [решения](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem_6_semi.pdf)
+* [Ручные задачи для семинара](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_6_regression/sem_6.pdf) и их [решения]( )
 
 __Семинар 5 (визуализация)__
 
