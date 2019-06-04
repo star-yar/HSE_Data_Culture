@@ -80,16 +80,16 @@ __Семинар 9-10 (АБ-тесты)__
 * __ВНИМАНИЕ!__ В начале 9 семинара на 10-15 минут вас ждёт самостоялка по классификации. Не опаздывайте!
 * [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_9%2610_ABtest/sem_9%2610.zip)
 * [Посмотреть на ручные задачи](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_9%2610_ABtest/sem9%2610_AB.pdf) 
-* [Посмотреть на питоновскую тетрадку с дядей Фёдором](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_9%2610_ABtest/sem9_ABtest_introduction.ipynb)
+* [Посмотреть на питоновскую тетрадку с дядей Фёдором](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_9%2610_ABtest/sem9_ABtest_introduction.ipynb) и её [решение](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_9%2610_ABtest/sem9%2610_AB_solving.pdf)
 * [Помотреть на тетрадку с поющими котами](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_9%2610_ABtest/sem10_ABtest_bootstrap.ipynb)
 
 
 __Семинар 7-8 (классификация)__ 
 
 * __ВНИМАНИЕ!__ В начале 7 семинара на 10-15 минут вас ждёт самостоялка по регрессии. Не опаздывайте!
-* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_7%268_classification/sem7%268.zip)
+* [Скачать семинар](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_7%268_classification/sem7%268.zip) 
 * [Посмотреть на питоновскую тетрадку](https://nbviewer.jupyter.org/github/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7%268_classification.ipynb)
-* [Посмотреть на ручные задачи по классификации](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7-8_class.pdf) 
+* [Посмотреть на ручные задачи по классификации](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7-8_class.pdf) и их [решения](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/sem_7%268_classification/sem7-8_class_solving.pdf)
 
 
 __Семинар 6 (регрессия)__
