@@ -11,7 +11,7 @@ lang: ru-RU
 
 ### Оценки и домашки
 
-* Текущие оценки: [БММ-181,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=144425580&single=true) [БММ-182,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=5661136&single=true) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
+* Текущие оценки: [БММ-181,](https://drive.google.com/file/d/1Yuq8dmFsglDfscICvfE99WeL1Fd_17DD/view) [БММ-182,](https://drive.google.com/file/d/1VjbQnzALaSWikzffs6gHyDSZbUcnZRAk/view) [БММ-183,](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=218128335&single=true) [БММ-184](https://docs.google.com/spreadsheets/d/e/2PACX-1vQzPkU-SVOzDX_LB-l0zlW_1u2XkWvrkUoub-UXNCL8sJexXU51kiHNSjH71Hm_rfmAXS86l0KlDfna/pubhtml?gid=1636765882&single=true)
 * [Небольшое видео про сдачу домашек,](https://yadi.sk/i/rVb_Nd7g8AmNog) мы теперь их сдаём в [anytask](https://anytask.org)
 
 __Инвайты в [anytask:](https://anytask.org)__
@@ -48,7 +48,7 @@ __Инвайты в [anytask:](https://anytask.org)__
 8. [Мини-дз 8: АБ-тесты](https://github.com/FUlyankin/HSE_Data_Culture/raw/master/Intro_to_DS_2019/sem_9%2610_ABtest/little_hw8.zip) [__Анонимка__](https://docs.google.com/forms/d/e/1FAIpQLSfuBzlC_p1vWgt0sY0ZPyFBQyBLTCZ0SWdc2WGnNWv2aJxycA/viewform)
 
 * [Большое дз 1: Сегментация и описательные статистики](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/big_hw/big_hw1.pdf)
-* Большое дз 2: Поиск и АБ-тесты
+* [Большое дз 2: Пицца](https://github.com/FUlyankin/HSE_Data_Culture/blob/master/Intro_to_DS_2019/big_hw/big_hw2.pdf)
 
 
 ### Лекции 
